@@ -20,7 +20,7 @@ img {
   object-fit: contain;
   border-radius: 10px;
   display: block;
-  padding: 20px;
+  padding: 15px;
 }
 .gallery {
   display: flex;
@@ -55,6 +55,6 @@ a:visited{
   color: #a5599f;
 }
 main{
-padding: 7px 20px;
+padding: 7px 15px;
 }
 
