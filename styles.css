@@ -3,10 +3,11 @@
   font-family: Helvetica;
 }
 main {
-  background-color: #e2c9e0
+  background-color: #2C2E4B
 }
 h1 {
   text-align: center;
+  text-color: white;
 }
 img {
   width: 100%;
