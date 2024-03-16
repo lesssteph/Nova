@@ -13,6 +13,10 @@ h3, h4{
   color: #2C2E4B;
   line-height: 1.25;
   padding: 0px, 0px;
+  
+}
+h4{
+  margin: 0.5;
 }
 img {
   width: 100%;
