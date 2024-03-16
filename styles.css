@@ -7,12 +7,12 @@ main {
 }
 h1 {
   text-align: center;
-  font-color: #2C2E4B;
+  color: #2C2E4B;
 }
 h3, h4{
-  font-color: #2C2E4B;
-  line-height: 1.5;
-  padding: 5px, 5px;
+  color: #2C2E4B;
+  line-height: 1.25;
+  padding: 0px, 0px;
 }
 img {
   width: 100%;
@@ -56,6 +56,5 @@ a:visited{
   color: #a5599f;
 }
 main{
-padding: 7px 15px;
+padding: 5px 30px;
 }
-
