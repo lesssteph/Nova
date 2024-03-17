@@ -30,6 +30,10 @@ img {
   object-fit: cover;
   height: 350px;
 }
+#text-column {
+  text-align: justify;
+}
+
 .gallery {
   display: flex;
   flex-direction: row;
@@ -74,7 +78,7 @@ padding: 5px 30px;
 }
 .right {
   width: 75%;
-  padding: 5px 10px 0 0;
+  padding: 0 10px 0 0;
   height:350px;
   float: right;
   display: flex;
@@ -87,15 +91,26 @@ padding: 5px 30px;
   display: table;
   clear: both;
 }
+.left2 {
+  width: 50%;
+  padding: 0 10px 0 0;
+  float:left;
+}
+.right2 {
+  width: 50%;
+  padding: 0 10px 0 0;
+  float: right;
+   
+}
 @media only screen and (max-width: 800px) {
    .right {
         width: 100%;
-        padding-bottom: 15px;
+        padding-bottom: 10px;
         float: none;
     }
     .left {
         width: 100%;
-        padding-bottom: 15px;
+        padding-bottom: 10px;
         float: none;
     } 
 }
