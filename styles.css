@@ -27,6 +27,14 @@ img {
   display: block;
   padding: 15px;
 }
+#image-Steph {
+  border-radius: 50%;
+  max-width: 100%;
+  object-fit: cover;
+  height: 200px;
+}
+
+
 .gallery {
   display: flex;
   flex-direction: row;
@@ -61,4 +69,21 @@ a:visited{
 }
 main{
 padding: 5px 30px;
+}
+
+.left {
+  width: 25%;
+  padding: 0 10px 0 0;
+  float:left;
+}
+
+.right {
+  width: 75%;
+  padding: 0 10px 0 0;
+  float: right;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
