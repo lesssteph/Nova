@@ -28,7 +28,7 @@ img {
   display: block;
   padding: 15px;
 }
-#image-steph {
+#image-steph, #img-perso {
   border-radius: 50%;
   max-width: 100%;
   object-fit: cover;
