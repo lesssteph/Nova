@@ -12,7 +12,7 @@ h1 {
 h3, h4{
   color: #2C2E4B;
   line-height: 1.25;
-  padding: 0,25em;
+  padding: 0.25em;
   margin: 0em; 
 }
 img {
@@ -94,12 +94,12 @@ padding: 5px 30px;
 @media only screen and (max-width: 800px) {
    .right {
         width: 100%;
-        padding-bottom: 10px;
+        padding-bottom: 15px;
         float: none;
     }
     .left {
         width: 100%;
-        padding-bottom: 10px;
+        padding-bottom: 15px;
         float: none;
     } 
 }
