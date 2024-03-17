@@ -106,19 +106,3 @@ padding: 5px 40px;
    
 }
 
-@media only screen and (max-width: 800px) {
-  
-    .left {
-        width: 100%;
-        padding-bottom: 10px;
-        float: none;
-      display:block;
-    } 
-    .right {
-      width: 100%;
-        padding-bottom: 10px;
-        float: none;
-      display:block;
-    }
-}
-}
