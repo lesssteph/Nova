@@ -106,14 +106,20 @@ padding: 5px 40px;
    
 }
 @media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
+  
    .right {
-        width: 100%;
-        padding-bottom: 1em;
-        float: none;
+      
     }
     .left {
         width: 100%;
-        padding-bottom: 1em;
+        padding-bottom: 10px;
         float: none;
     } 
+    .right {
+      width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+}
 }
