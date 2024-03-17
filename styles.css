@@ -12,12 +12,12 @@ h1 {
 h3, h4{
   color: #2C2E4B;
   line-height: 1.25;
-  padding: 0px;
+  padding: 1em;
   margin: 0.5; 
 }
 
 h4{
-  margin: 0.5;
+  margin: 1em;
 }
 img {
   width: 100%;
